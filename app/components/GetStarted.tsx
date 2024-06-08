@@ -6,7 +6,7 @@ import Image from "next/image";
 const GetStarted = () => {
   return (
     <>
-      <div className="pl-[105px] mb-10 pt-10 justify-center bg-gradient-to-b from-[#e4d7f9] overflow-x-hidden w-full h-[850px]">
+      <div className="pl-[105px] mb-10 justify-center bg-gradient-to-b from-[#e4d7f9] overflow-x-hidden w-full h-[850px]">
         <div className="flex gap-2 justify-center align-middle items-center bg-gradient-to-tr from-[#e4d7f9] to-secondary w-[400px] h-10 rounded-full my-20 mx-auto border-2 border-primary">
           <span className="text-sm font-medium">
             Yonode has officially launched!
